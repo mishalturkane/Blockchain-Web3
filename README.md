@@ -4,6 +4,7 @@ Week 1-2:
 Day 1-3: Understanding Blockchain Basics
 Read articles or watch videos to understand the fundamentals of blockchain technology, consensus mechanisms, and decentralized applications (dApps).
 Learn about Solana's architecture and its key features, such as Proof of History (PoH) and the Solana Runtime.
+\n
 Day 4-7: Setting Up Your Environment
 Install necessary development tools such as Node.js, Rust, and the Solana Command Line Interface (CLI).
 Set up a local Solana blockchain environment for testing and development purposes.
