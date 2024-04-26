@@ -1,29 +1,30 @@
-I. Blockchain Basics: Understanding the foundational principles of blockchain technology, including decentralized ledgers, cryptographic hashing, and consensus mechanisms.
-
-II. Consensus Mechanisms: Exploring different consensus algorithms such as Proof of Work (PoW), Proof of Stake (PoS), Delegated Proof of Stake (DPoS), and Practical Byzantine Fault Tolerance (PBFT).
-
-III. Cryptocurrencies: Studying digital currencies built on blockchain technology, including Bitcoin, Ethereum, and altcoins, and their underlying principles like mining, wallets, and transactions.
-
-IV. Smart Contracts: Learning about self-executing contracts coded on blockchain platforms, enabling automatic execution of contract terms without intermediaries.
-
-V. Decentralized Applications (dApps): Understanding decentralized applications that run on blockchain networks, including their architecture, development, and deployment.
-
-VI. Blockchain Platforms: Exploring various blockchain platforms like Ethereum, Solana, Binance Smart Chain, and Hyperledger, each with its own features, use cases, and development tools.
-
-VII. Tokenization: Studying the process of representing real-world assets or rights as digital tokens on a blockchain, enabling fractional ownership and liquidity.
-
-VIII. Blockchain Security: Delving into security challenges and best practices in blockchain networks, including cryptographic techniques, consensus security, and smart contract auditing.
-
-IX. Governance Models: Understanding governance mechanisms in blockchain networks, including on-chain governance, community governance, and DAOs (Decentralized Autonomous Organizations).
-
-X. Interoperability: Exploring solutions for interoperability between different blockchain networks, enabling seamless transfer of assets and data across disparate platforms.
-
-XI. Scalability Solutions: Investigating techniques and technologies to improve the scalability and throughput of blockchain networks, including sharding, layer 2 solutions, and off-chain scaling.
-
-XII. Regulatory Considerations: Examining legal and regulatory frameworks surrounding blockchain technology and cryptocurrencies in various jurisdictions.
-
-XIII. Decentralized Finance (DeFi): Exploring the intersection of blockchain technology and finance, including lending, borrowing, trading, and yield farming in decentralized finance protocols.
-
-XIV. Non-Fungible Tokens (NFTs): Understanding unique digital assets represented as non-fungible tokens on blockchain platforms, with applications in digital art, gaming, collectibles, and more.
-
-XV. Privacy and Confidentiality: Investigating techniques for preserving privacy and confidentiality in blockchain transactions and smart contracts, including zero-knowledge proofs and privacy-focused blockchains.
+#100DaysOfBlockchainWeb3 Challenge Outline
+Day 1-10: Introduction to Blockchain and Solana
+Day 1: Understanding the basics of blockchain technology
+Day 2-3: Overview of the Solana blockchain protocol
+Day 4-5: Setting up a local Solana development environment
+Day 6-7: Introduction to Rust programming language
+Day 8-10: Exploring Solana's architecture and consensus mechanism
+Day 11-30: Building Solana Smart Contracts with Rust
+Day 11-15: Deep dive into Rust programming language fundamentals
+Day 16-20: Understanding Solana's smart contract development ecosystem
+Day 21-25: Building and deploying your first Solana smart contract using Rust
+Day 26-30: Testing and debugging Solana smart contracts
+Day 31-50: Advanced Solana Development
+Day 31-35: Exploring advanced Solana smart contract patterns and best practices
+Day 36-40: Interacting with Solana blockchain using RPC and CLI tools
+Day 41-45: Integrating Solana smart contracts with front-end applications
+Day 46-50: Optimizing Solana smart contracts for performance and cost-efficiency
+Day 51-70: Web3 Development with Solana and Rust
+Day 51-55: Introduction to Web3 and decentralized application (dApp) development
+Day 56-60: Building a basic decentralized application (dApp) on Solana using Rust
+Day 61-65: Integrating Solana dApp with wallet providers and blockchain explorers
+Day 66-70: Implementing decentralized finance (DeFi) concepts on Solana with Rust
+Day 71-90: Security and Best Practices
+Day 71-75: Understanding security vulnerabilities in blockchain and smart contracts
+Day 76-80: Implementing security best practices in Solana smart contract development
+Day 81-85: Auditing and testing Solana smart contracts for security
+Day 86-90: Exploring decentralized identity (DID) and privacy-preserving technologies on Solana
+Day 91-100: Community Projects and Contributions
+Day 91-95: Contributing to open-source Solana projects in Rust
+Day 96-100: Collaborating with the Solana developer community on innovative projects
