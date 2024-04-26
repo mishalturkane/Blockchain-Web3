@@ -1,6 +1,6 @@
 #100DaysOfBlockchainWeb3 Challenge Outline
-Day 1-10: Introduction to Blockchain and Solana
-Day 1: Understanding the basics of blockchain technology
+Day 1-10: Introduction to Blockchain and Solana /n
+Day 1: Understanding the basics of blockchain technology /n
 Day 2-3: Overview of the Solana blockchain protocol
 Day 4-5: Setting up a local Solana development environment
 Day 6-7: Introduction to Rust programming language
